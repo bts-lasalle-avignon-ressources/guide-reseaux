@@ -47,10 +47,9 @@ Les principales [fiches et aide-mémoire](cheat-sheets/README.md) au format PDF 
 - [fiche-socket.pdf](docs/fiches-pdf/fiche-socket.pdf)
 - [fiche-reseau-virtualbox.pdf](docs/fiches-pdf/fiche-reseau-virtualbox.pdf)
 
-## Site web
+## Auteurs
 
-- [btssn-lasalle84.github.io](https://btssn-lasalle84.github.io/guide-reseaux/)
-- [tvaira.free.fr](http://tvaira.free.fr/)
+- [Thierry VAIRA](thierry.vaira@gmail.com) : [tvaira.free.fr](http://tvaira.free.fr/)
 
 ---
-©️ 2023 BTS SNIR LaSalle Avignon - [thierry(dot)vaira(at)gmail(dot)com](thierry.vaira@gmail.com)
+©️ 2023 BTS LaSalle Avignon
